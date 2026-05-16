@@ -74,5 +74,5 @@ Distributed, multi-service backend platform supporting:
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-- GitHub: https://github.com/your-github-username
+- LinkedIn: []
+- GitHub: https://github.com/acegobugs-cpu
