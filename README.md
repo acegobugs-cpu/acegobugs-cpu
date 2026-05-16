@@ -38,13 +38,13 @@ A distributed, multi-service backend platform supporting learning, challenge/CTF
 - Gateway-mediated service communication
 
 ## Tech Stack
-- Java
+- Java/Spring Boot
 - Spring Boot
-- FastAPI
+- python/FastAPI
+- Go/gin
 - PostgreSQL
 - Docker
-- Flyway
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-- GitHub: https://github.com/your-github-username
+- LinkedIn: []
+- GitHub: https://github.com/acegobugs-cpu
