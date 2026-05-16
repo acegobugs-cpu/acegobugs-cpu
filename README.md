@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Backend Engineer specializing in Platform and Systems Engineering.
+
+Designing distributed, multi-service, multi-tenant backend platforms with a focus on scalability, clear service boundaries, and long-term maintainability.
+
+## Core Focus
+- Backend Architecture
+- Systems Architecture
+- Distributed Systems
+- Identity & Authorization
+- Domain-Driven Design
+- Service-Oriented Architecture
+
+## Flagship Project
+### Cyber Club Platform
+A distributed, multi-service backend platform supporting learning, challenge/CTF, and community domains with centralized identity and authorization.
+
+- Multi-tenant platform architecture
+- Independent service and schema ownership
+- Centralized authentication and authorization
+- Flyway-managed database migrations
+- Gateway-mediated service communication
+
+## Tech Stack
+- Java
+- Spring Boot
+- FastAPI
+- PostgreSQL
+- Docker
+- Flyway
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- GitHub: https://github.com/your-github-username
