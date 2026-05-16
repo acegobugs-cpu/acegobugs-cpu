@@ -15,36 +15,64 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Backend Engineer specializing in Platform and Systems Engineering.
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Platform%20%26%20Systems-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-success?style=for-the-badge" />
+</p>
 
-Designing distributed, multi-service, multi-tenant backend platforms with a focus on scalability, clear service boundaries, and long-term maintainability.
+Backend Engineer specializing in **Platform and Systems Engineering**.
 
-## Core Focus
-- Backend Architecture
-- Systems Architecture
-- Distributed Systems
-- Identity & Authorization
-- Domain-Driven Design
-- Service-Oriented Architecture
+Designs and builds **distributed, multi-service, multi-tenant backend platforms**
+with a focus on **scalability, clear service boundaries, and long-term maintainability**.
 
-## Flagship Project
-### Cyber Club Platform
-A distributed, multi-service backend platform supporting learning, challenge/CTF, and community domains with centralized identity and authorization.
+---
 
-- Multi-tenant platform architecture
+## 🏗️ Core Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend%20Architecture-Expert-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Systems%20Architecture-Expert-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-Advanced-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Identity%20%26%20Authorization-Advanced-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain--Driven%20Design-Advanced-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Service--Oriented%20Architecture-Advanced-lightgrey?style=flat-square" />
+</p>
+
+---
+
+## 🚀 Flagship Project: Cyber Club Platform
+
+Distributed, multi-service backend platform supporting:
+- Learning
+- Challenge / CTF
+- Community
+
+### Architectural Highlights
+- Multi-tenant platform design
 - Independent service and schema ownership
-- Centralized authentication and authorization
+- Centralized identity and authorization
 - Flyway-managed database migrations
 - Gateway-mediated service communication
 
-## Tech Stack
-- Java/Spring Boot
-- Spring Boot
-- python/FastAPI
-- Go/gin
-- PostgreSQL
-- Docker
+🔗 **Project Repository:** https://github.com/your-github-username/cyber-club-platform
 
-## Connect
-- LinkedIn: []
-- GitHub: https://github.com/acegobugs-cpu
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge" />
+</p>
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- GitHub: https://github.com/your-github-username
